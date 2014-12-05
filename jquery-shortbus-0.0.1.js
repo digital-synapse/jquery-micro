@@ -1,0 +1,1 @@
+window.$=function(a){var b="string"==typeof a?document.getElementById(a.replace("#","")):a;return{a:function(a){b.addEventListener("click",a)},ready:function(a){b.addEventListener("DOMContentLoaded",a)}}};

@@ -1,4 +1,4 @@
-jquery-shortbus
+jquery-micro
 ===============
 
 sometimes all you need is $(document).ready and onClick

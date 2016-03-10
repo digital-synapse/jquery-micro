@@ -1,0 +1,26 @@
+{
+  "name": "jquery-micro",
+  "version": "0.1.0",
+  "description": "the absolute minimalistic @ 205 bytes",
+  "main": "jquery-micro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digital-synapse/jquery-micro.git"
+  },
+  "keywords": [
+    "jquery",
+    "minimalist",
+    "tiny",
+    "micro",
+    "selector"
+  ],
+  "author": "dss <digital.synapse.software@gmail.com> (dsscode.cf)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digital-synapse/jquery-micro/issues"
+  },
+  "homepage": "https://github.com/digital-synapse/jquery-micro#readme"
+}
